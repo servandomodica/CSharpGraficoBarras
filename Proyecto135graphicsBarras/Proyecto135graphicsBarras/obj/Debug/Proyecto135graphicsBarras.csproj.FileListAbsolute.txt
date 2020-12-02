@@ -1,0 +1,10 @@
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto135graphicsBarras\Proyecto135graphicsBarras\bin\Debug\Proyecto135graphicsBarras.exe.config
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto135graphicsBarras\Proyecto135graphicsBarras\bin\Debug\Proyecto135graphicsBarras.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto135graphicsBarras\Proyecto135graphicsBarras\bin\Debug\Proyecto135graphicsBarras.pdb
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto135graphicsBarras\Proyecto135graphicsBarras\obj\Debug\Proyecto135graphicsBarras.csprojAssemblyReference.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto135graphicsBarras\Proyecto135graphicsBarras\obj\Debug\Proyecto135graphicsBarras.Form1.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto135graphicsBarras\Proyecto135graphicsBarras\obj\Debug\Proyecto135graphicsBarras.Properties.Resources.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto135graphicsBarras\Proyecto135graphicsBarras\obj\Debug\Proyecto135graphicsBarras.csproj.GenerateResource.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto135graphicsBarras\Proyecto135graphicsBarras\obj\Debug\Proyecto135graphicsBarras.csproj.CoreCompileInputs.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto135graphicsBarras\Proyecto135graphicsBarras\obj\Debug\Proyecto135graphicsBarras.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto135graphicsBarras\Proyecto135graphicsBarras\obj\Debug\Proyecto135graphicsBarras.pdb
